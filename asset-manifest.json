@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculodechurrasco/static/css/main.7da0ecbb.css",
+    "main.js": "/calculodechurrasco/static/js/main.d4b25fe7.js",
+    "static/js/453.12a3fb5a.chunk.js": "/calculodechurrasco/static/js/453.12a3fb5a.chunk.js",
+    "service-worker.js": "/calculodechurrasco/service-worker.js",
+    "index.html": "/calculodechurrasco/index.html",
+    "main.7da0ecbb.css.map": "/calculodechurrasco/static/css/main.7da0ecbb.css.map",
+    "main.d4b25fe7.js.map": "/calculodechurrasco/static/js/main.d4b25fe7.js.map",
+    "453.12a3fb5a.chunk.js.map": "/calculodechurrasco/static/js/453.12a3fb5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da0ecbb.css",
+    "static/js/main.d4b25fe7.js"
+  ]
+}
